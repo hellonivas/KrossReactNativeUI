@@ -1,0 +1,25 @@
+{
+  "name": "krossreactnativeui",
+  "version": "1.0.0",
+  "description": "Custome UI components",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsrinivasancse/KrossReactNativeUI.git"
+  },
+  "author": "Srinivasan Lakshmanan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsrinivasancse/KrossReactNativeUI/issues"
+  },
+  "homepage": "https://github.com/lsrinivasancse/KrossReactNativeUI#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  }
+}
